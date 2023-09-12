@@ -1,4 +1,4 @@
-let menu = document.querySelector('.menu');
+let menu = document.querySelector('#menu');
 let navbar= document.querySelector('.navbar');
 
 menu.onclick =  () =>{
